@@ -1,6 +1,8 @@
 BERKAY TATAR
 250541024
 TEKNOLOJİ FAKÜLTESİ
+
+    
 import java.util.Scanner;
 
 public class notSistemi {
@@ -86,3 +88,4 @@ public class notSistemi {
         scanner.close();
     }
 }
+
